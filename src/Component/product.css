@@ -1,0 +1,16 @@
+body {
+    background-color: #eee;
+}
+.card {
+   height: 400px;
+   max-height: 400px;
+   padding: 10px;
+}
+.card .image{
+   height: 200px;
+   overflow: hidden;
+}
+.card .image img {
+   height: 100%;
+   max-height:100%;
+}
